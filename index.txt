@@ -1,0 +1,33 @@
+index.html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Life Sorted NE</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<style>
+body {
+  margin: 0;
+  background: #1f4f5a;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+</style>
+
+</head>
+
+<body>
+
+<img src="holding.jpg" alt="Life Sorted NE Holding Page">
+
+</body>
+</html>
